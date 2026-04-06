@@ -1,7 +1,7 @@
 # Brian De Pinto
 
 **Commercial Photographer · Digital Capture Technician · Developer**  
-Based in New Jersey · Available for shoots and consulting worldwide
+New York / New Jersey
 
 ---
 
@@ -14,7 +14,7 @@ Now I build tools for the industry I came from.
 ## What I'm Building
 
 **[CaptureSync](https://github.com/briandepinto/capturesync)**  
-A shoot management and folder generation platform for photographers, DITs, and studio managers. Automates the folder creation, filename generation, and shot list production that currently lives in a tangle of Google Sheets and Python scripts on set. Built with React, TypeScript, and Zustand.
+A shoot management and folder generation platform for photographers, DITs, and studio managers. Automates the folder creation, filename generation, and shot list production that currently lives in a tangle of Google Sheets on set. Built with React, TypeScript, and Zustand.
 
 **[FolderForge](https://github.com/briandepinto/folderforge)**  
 A standalone token-based folder structure generator for creative professionals. Drag-and-drop spreadsheet import, configurable naming patterns, direct filesystem write or ZIP download. Built with React and Vite.
@@ -31,28 +31,20 @@ A gamified chore and allowance tracker built for my son Theo. Short visit and lo
 - Digital Archivist — Richard Avedon Foundation (2013–2014)
 - AI workflow automation contract — Eileen Fisher / Untitled NYC (2024–2025)
 - Google Cybersecurity Certificate (2024)
-- Owner — BDP Handyman LLC, Verona NJ
 
 ---
 
 ## Skills
 
-**On set:** Capture One · ChronoSync · Eizo calibration · tethered capture · RAID workflows · medium format film (Bronica)
+**On set:** Capture One · ChronoSync · Eizo calibration · tethered capture · RAID workflows · medium format film
 
 **Code:** Python · JavaScript · TypeScript · React · Vite · Tailwind · Zustand · HTML/CSS · Git
 
-**Tools:** Google Workspace · Airtable · Zapier · Notion · Squarespace · Netlify · Vercel
-
----
-
-## Certifications
-
-- Google Cybersecurity Certificate — Coursera / Google (2024)
+**Tools:** Google Workspace · Airtable · Zapier · Notion · Netlify · Vercel
 
 ---
 
 ## Find Me
 
-- Portfolio: [bdpphoto.cargo.site](https://bdpphoto.cargo.site)
-- Handyman: [bdphandyman.com](https://bdphandyman.com)
+- Portfolio: [briandepinto.com](https://www.briandepinto.com)
 - LinkedIn: [linkedin.com/in/briandepinto](https://linkedin.com/in/briandepinto)
