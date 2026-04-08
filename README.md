@@ -1,11 +1,10 @@
 # Brian De Pinto
-
 **AI Content Integrity | Visual Forensics | Cybersecurity**  
 New York / New Jersey
 
 ---
 
-I spent 15 years working at the intersection of high-stakes visual production and digital asset management — as a capture technician, archivist, and commercial photographer across studios, archives, and conflict zones. Along the way I developed a practitioner-level ability to read images the way most people can't: light direction, shadow consistency, reflection coherence, spatial logic. The same eye that spent years matching lighting references on commercial sets now applies to detecting synthetic and AI-generated content.
+I spent 15 years working at the intersection of high-stakes visual production and digital asset management as a capture technician, archivist, and commercial photographer across studios, archives, and conflict zones. Along the way I developed a practitioner-level ability to read images the way most people can't: light direction, shadow consistency, reflection coherence, spatial logic. The same eye that spent years matching lighting references on commercial sets now applies to detecting synthetic and AI-generated content.
 
 I'm building toward roles at the frontier of AI content integrity, visual forensics, and trust and safety, and building tools for the photography industry along the way.
 
@@ -19,7 +18,10 @@ A shoot management and folder generation platform for photographers, DITs, and s
 **[FolderForge](https://github.com/briandepinto/folderforge)**  
 A standalone token-based folder structure generator for creative professionals. Drag-and-drop spreadsheet import, configurable naming patterns, direct filesystem write or ZIP download. Built with React and Vite.
 
-**[Theo's Chore Chart](https://github.com/briandepinto/theo-chore-chart)**  
+**[AI Second Brain](https://github.com/briandepinto/second-brain)**  
+A personal knowledge management system using Slack, Notion, Zapier, and Claude. Captures thoughts in seconds, classifies them with AI, routes them to the correct database, and delivers a daily digest. Based on a tutorial by Nate B Jones.
+
+**[Chore Chart](https://github.com/briandepinto/theo-chore-chart)**  
 A gamified chore and allowance tracker built for my son Theo. Live at theochorechart.netlify.app.
 
 ---
@@ -42,7 +44,7 @@ A gamified chore and allowance tracker built for my son Theo. Live at theochorec
 
 **Code:** Python, JavaScript, TypeScript, React, Vite, Tailwind, Zustand, HTML/CSS, Git, Linux CLI
 
-**Tools:** Google Workspace, Airtable, Zapier, Notion, Netlify, Vercel, Claude Code
+**Tools:** Google Workspace, Airtable, Zapier, Notion, Netlify, Vercel, Claude Code, Ollama, local LLM deployment
 
 ---
 
