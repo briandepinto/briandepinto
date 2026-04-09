@@ -21,8 +21,8 @@ A standalone token-based folder structure generator for creative professionals. 
 **[AI Second Brain](https://github.com/briandepinto/second-brain)**  
 A personal knowledge management system using Slack, Notion, Zapier, and Claude. Captures thoughts in seconds, classifies them with AI, routes them to the correct database, and delivers a daily digest. Based on a tutorial by Nate B Jones.
 
-**[Chore Chart](https://github.com/briandepinto/theo-chore-chart)**  
-A gamified chore and allowance tracker built for my son Theo. Live at theochorechart.netlify.app.
+**[ChoreChart](https://github.com/briandepinto/theo-chore-chart)**  
+A gamified chore and allowance tracker built for my son. Live at theochorechart.netlify.app.
 
 ---
 
@@ -57,6 +57,6 @@ A gamified chore and allowance tracker built for my son Theo. Live at theochorec
 
 ## Find Me
 
-- Portfolio: [briandepinto.com](https://www.briandepinto.com)
+- Portfolio: [briandepinto.com/tech](https://www.briandepinto.com/tech)
 - LinkedIn: [linkedin.com/in/briandepinto](https://linkedin.com/in/briandepinto)
 - Resume: [Download PDF](https://github.com/briandepinto/briandepinto/raw/main/Brian_De_Pinto_2026_Resume.pdf)
