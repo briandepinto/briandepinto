@@ -59,4 +59,4 @@ A gamified chore and allowance tracker built for my son Theo. Live at theochorec
 
 - Portfolio: [briandepinto.com](https://www.briandepinto.com)
 - LinkedIn: [linkedin.com/in/briandepinto](https://linkedin.com/in/briandepinto)
-- Resume: [Download PDF](https://github.com/briandepinto/google-cybersecurity-certificate/raw/main/Brian_De_Pinto_Resume_2026.pdf)
+- Resume: [Download PDF](https://github.com/briandepinto/briandepinto/raw/main/Brian_De_Pinto_2026_Resume.pdf)
