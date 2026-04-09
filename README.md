@@ -1,5 +1,5 @@
 # Brian De Pinto
-**AI Content Integrity | Visual Forensics | Cybersecurity**  
+**AI Systems & Workflow Developer | Digital Production Systems Lead**  
 New York / New Jersey
 
 ---
