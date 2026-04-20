@@ -1,6 +1,6 @@
 # Brian De Pinto
 **AI Systems & Workflow Developer | Digital Production Systems Lead**  
-New York / New Jersey
+NYC Metro area
 
 ---
 
